@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.0.0",
+  "minSupportedVersion": "1.0.0",
+  "maxPatchGap": 5,
+  "downloadUrl": "https://lunarbrowser.pages.dev",
+  "mandatory": false,
+  "changelog": [
+    "Initial official public release of Lunar Browser v1.0.0!",
+    "Profile management secured with Windows Hello biometric authentication",
+    "Encrypted password vault and built-in authenticator",
+    "Custom file picker system replacing native OS dialogs",
+    "Native support for .lunar browser extension architecture"
+  ]
+}
